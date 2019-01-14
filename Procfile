@@ -1,1 +1,1 @@
-web: gunicorn SDL_OOPP:run
+web: gunicorn run:run
